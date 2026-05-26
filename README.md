@@ -148,7 +148,7 @@ using the matrix keypad.
 ---
 
 ## 4️⃣ Cooking Process
-- Timer interrupt updates countdown every second
+- Timer interrupt updates the countdown every second
 - Fan turns ON during operation
 - LCD continuously displays remaining time
 
@@ -270,7 +270,7 @@ The CLCD displays:
 ### 1️⃣ Clone the Repository
 
 ```bash
-git clone https://github.com/your-username/Smart-Microwave-Oven-PIC16F877A.git
+git clone https://github.com/your-username/Microwave-Oven.git
 ```
 
 ### 2️⃣ Open Project
@@ -283,7 +283,7 @@ Compile the project using **XC8 Compiler**
 Load the generated `.hex` file into **PICSimLab**
 
 ### 5️⃣ Run Simulation
-Start simulation and test all microwave functionalities
+Start the simulation and test all microwave functionalities
 
 ---
 
